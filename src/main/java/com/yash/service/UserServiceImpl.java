@@ -2,7 +2,7 @@ package com.yash.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.yash.dao.UserDAO;
+//import com.yash.dao.UserDAO;
 import com.yash.dao.UserDAOImpl;
 import com.yash.model.Login;
 import com.yash.model.User;
